@@ -8,7 +8,6 @@ const dmSans = DM_Sans({
   display: "swap",
 });
 
-
 export const metadata: Metadata = {
   title: "Free WiFi Portal",
   description: "Connect to guest WiFi",

@@ -11,6 +11,7 @@ type WifiLoginBody = {
   address?: string;
 };
 
+
 const DEFAULT_SAVE_ENDPOINT = "http://10.150.1.47/Wifi/SaveAndConnect";
 
 export async function POST(request: Request) {
